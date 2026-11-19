@@ -193,5 +193,3 @@ if __name__ == "__main__":
     plt.grid(True)
     plt.show()
 
-#https://chatgpt.com/share/69131b39-c708-8004-a42c-f81a1808fcff
-#[1] OpenAI, “Explanation of Genetic Algorithm code and parameters for the Bin-Packing Problem,” ChatGPT, Nov. 11, 2025. [Online]. Available: https://chat.openai.com/
